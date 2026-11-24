@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nashan 👋
 
-<!--
-**nazhan0-dev/nazhan0-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Computer Science student at Songkhla Rajabhat University, passionate about building full-stack web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+- Stack: React · Next.js · Node.js · Express · MySQL · Socket.IO
+- 🛠️ Tools: Git · GitHub Actions · Docker · Postman · Figma · Jira
+- 🌱 Currently learning: backend architecture & cloud
+- 📫 Nashansama1234@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **[BranchFlow](https://github.com/nazhan0-dev/Branch-Flow)**: Branch restocking & delivery system with real-time driver tracking
+- **[Beacon](https://github.com/nazhan0-dev/Workshop-Map-Beacon)**: Security guard shift scheduler with map-based assignment & GPS check-in
+- **[IT Hub](https://github.com/nazhan0-dev/ithub-fullstack-ecommerce)**: Full-stack e-commerce store with Stripe payments
+- **[GoldWatch](https://github.com/nazhan0-dev/Gold-Watch)**: Thai gold price tracker ([live demo](https://gold-watch-phi.vercel.app))
