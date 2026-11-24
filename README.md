@@ -3,9 +3,9 @@
 3rd-year Computer Science student at Songkhla Rajabhat University, passionate about building full-stack web applications that solve real-world problems.
 
 - Stack: React · Next.js · Node.js · Express · MySQL · Socket.IO
-- 🛠️ Tools: Git · GitHub Actions · Docker · Postman · Figma · Jira
-- 🌱 Currently learning: backend architecture & cloud
-- 📫 Nashansama1234@gmail.com
+- Tools: Git · GitHub Actions · Docker · Postman · Figma · Jira
+- Currently learning: backend architecture & cloud
+- Nashansama1234@gmail.com
 
 ### Featured Projects
 - **[BranchFlow](https://github.com/nazhan0-dev/Branch-Flow)**: Branch restocking & delivery system with real-time driver tracking
